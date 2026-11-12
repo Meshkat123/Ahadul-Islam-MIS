@@ -1,0 +1,1010 @@
+payment_id,bill_id,customer_id,payment_date,amount_paid_bdt,payment_method,payment_status
+1,1,1,11-May-2026,"₨2,150.00",Cash,Completed
+2,2,1,04-Jun-2026,"₨1,410.00",Nagad,Partial
+3,3,1,06-Jul-2026,"₨2,200.00",Nagad,Completed
+4,4,1,18-Aug-2026,"₨2,200.00",Bank Transfer,Completed
+5,5,1,05-Sep-2026,"₨2,200.00",Card,Completed
+6,6,1,03-Oct-2026,"₨2,200.00",Nagad,Completed
+7,7,2,14-May-2026,₨525.00,Bank Transfer,Partial
+8,8,2,04-Jun-2026,₨900.00,Nagad,Completed
+9,10,2,03-Aug-2026,₨700.00,Cash,Completed
+10,11,2,02-Sep-2026,₨800.00,Card,Completed
+11,13,3,16-May-2026,"₨2,300.00",Bank Transfer,Completed
+12,14,3,06-Jun-2026,"₨2,250.00",bKash,Completed
+13,15,3,06-Jul-2026,"₨2,200.00",Bank Transfer,Completed
+14,16,3,14-Aug-2026,"₨2,200.00",Nagad,Completed
+15,17,3,15-Sep-2026,"₨2,350.00",Card,Completed
+16,18,3,12-Oct-2026,"₨1,650.00",Nagad,Partial
+17,19,4,13-May-2026,"₨2,950.00",Nagad,Completed
+18,20,4,05-Jun-2026,"₨3,100.00",Cash,Completed
+19,23,4,19-Sep-2026,"₨3,000.00",Bank Transfer,Completed
+20,24,4,03-Oct-2026,"₨3,000.00",Bank Transfer,Completed
+21,25,5,17-May-2026,"₨1,650.00",Nagad,Partial
+22,26,5,06-Jun-2026,"₨2,300.00",bKash,Completed
+23,28,5,17-Aug-2026,"₨1,725.00",Bank Transfer,Partial
+24,29,5,08-Sep-2026,"₨2,200.00",Bank Transfer,Completed
+25,30,5,05-Oct-2026,"₨2,350.00",Bank Transfer,Completed
+26,31,6,11-May-2026,"₨1,200.00",bKash,Completed
+27,32,6,05-Jun-2026,"₨1,250.00",Nagad,Completed
+28,33,6,12-Jul-2026,"₨1,350.00",Card,Completed
+29,34,6,12-Aug-2026,"₨1,200.00",bKash,Completed
+30,35,6,08-Sep-2026,"₨1,200.00",bKash,Completed
+31,36,6,12-Oct-2026,"₨1,200.00",Cash,Completed
+32,37,7,17-May-2026,"₨2,100.00",Bank Transfer,Completed
+33,38,7,13-Jun-2026,"₨2,350.00",Nagad,Completed
+34,39,7,11-Jul-2026,"₨2,200.00",Nagad,Completed
+35,40,7,05-Aug-2026,"₨2,200.00",Bank Transfer,Completed
+36,41,7,11-Sep-2026,"₨2,350.00",Bank Transfer,Completed
+37,42,7,13-Oct-2026,"₨2,200.00",Card,Completed
+38,43,8,03-May-2026,"₨3,100.00",bKash,Completed
+39,44,8,06-Jun-2026,"₨2,950.00",Nagad,Completed
+40,45,8,13-Jul-2026,"₨3,000.00",Card,Completed
+41,46,8,17-Aug-2026,"₨3,000.00",Nagad,Completed
+42,47,8,07-Sep-2026,"₨3,000.00",Nagad,Completed
+43,48,8,03-Oct-2026,"₨1,770.00",Cash,Partial
+44,49,9,11-May-2026,₨800.00,Bank Transfer,Completed
+45,50,9,17-Jun-2026,₨480.00,Cash,Partial
+46,51,9,18-Jul-2026,₨900.00,Cash,Completed
+47,52,9,14-Aug-2026,₨850.00,bKash,Completed
+48,54,9,18-Oct-2026,₨800.00,bKash,Completed
+49,55,10,08-May-2026,"₨5,650.00",Bank Transfer,Completed
+50,57,10,11-Jul-2026,"₨5,600.00",Bank Transfer,Completed
+51,58,10,14-Aug-2026,"₨5,450.00",Card,Completed
+52,59,10,18-Sep-2026,"₨5,450.00",Cash,Completed
+53,60,10,04-Oct-2026,"₨5,500.00",Bank Transfer,Completed
+54,61,11,19-May-2026,"₨1,300.00",Cash,Completed
+55,62,11,12-Jun-2026,₨325.00,Cash,Partial
+56,63,11,16-Jul-2026,"₨1,200.00",Cash,Completed
+57,64,11,08-Aug-2026,"₨1,250.00",Bank Transfer,Completed
+58,65,11,02-Sep-2026,"₨1,200.00",Card,Completed
+59,66,11,02-Oct-2026,"₨1,300.00",Nagad,Completed
+60,67,12,17-May-2026,"₨2,300.00",Nagad,Completed
+61,68,12,11-Jun-2026,"₨2,200.00",Nagad,Completed
+62,69,12,05-Jul-2026,"₨2,200.00",Bank Transfer,Completed
+63,70,12,02-Aug-2026,₨525.00,Nagad,Partial
+64,71,12,12-Sep-2026,"₨2,200.00",Bank Transfer,Completed
+65,72,12,16-Oct-2026,₨537.50,bKash,Partial
+66,73,13,19-May-2026,"₨5,550.00",Bank Transfer,Completed
+67,74,13,18-Jun-2026,"₨5,600.00",Bank Transfer,Completed
+68,75,13,15-Jul-2026,"₨5,550.00",Bank Transfer,Completed
+69,76,13,02-Aug-2026,"₨5,500.00",bKash,Completed
+70,77,13,12-Sep-2026,"₨5,500.00",Nagad,Completed
+71,78,13,04-Oct-2026,"₨5,500.00",bKash,Completed
+72,79,14,18-May-2026,₨800.00,bKash,Completed
+73,80,14,09-Jun-2026,₨700.00,Card,Completed
+74,81,15,12-May-2026,"₨1,600.00",Cash,Completed
+75,82,15,13-Jun-2026,"₨1,600.00",Card,Completed
+76,83,15,17-Jul-2026,"₨1,700.00",Cash,Completed
+77,84,15,03-Aug-2026,"₨1,550.00",Card,Completed
+78,85,15,18-Sep-2026,"₨1,650.00",Cash,Completed
+79,86,15,17-Oct-2026,"₨1,700.00",Card,Completed
+80,87,16,07-May-2026,₨800.00,Cash,Completed
+81,89,16,17-Jul-2026,₨800.00,Nagad,Completed
+82,90,16,06-Aug-2026,₨850.00,bKash,Completed
+83,91,16,06-Sep-2026,₨750.00,bKash,Completed
+84,92,16,15-Oct-2026,₨850.00,bKash,Completed
+85,94,17,04-Jun-2026,"₨3,000.00",bKash,Completed
+86,96,17,03-Aug-2026,"₨3,000.00",Bank Transfer,Completed
+87,97,17,13-Sep-2026,"₨3,150.00",Bank Transfer,Completed
+88,98,17,08-Oct-2026,"₨3,050.00",bKash,Completed
+89,99,18,16-May-2026,"₨2,300.00",Bank Transfer,Completed
+90,100,18,18-Jun-2026,"₨2,200.00",Nagad,Completed
+91,102,18,06-Aug-2026,"₨2,200.00",Nagad,Completed
+92,103,18,08-Sep-2026,"₨2,200.00",Bank Transfer,Completed
+93,104,18,16-Oct-2026,"₨2,200.00",bKash,Completed
+94,105,19,10-May-2026,"₨1,200.00",bKash,Completed
+95,106,19,07-Jun-2026,"₨1,300.00",Nagad,Completed
+96,107,19,12-Jul-2026,"₨1,150.00",Nagad,Completed
+97,110,19,16-Oct-2026,"₨1,200.00",Cash,Completed
+98,111,20,18-May-2026,"₨7,400.00",bKash,Completed
+99,112,20,07-Jun-2026,"₨1,875.00",bKash,Partial
+100,113,20,08-Jul-2026,"₨7,400.00",Cash,Completed
+101,114,20,13-Aug-2026,"₨7,500.00",bKash,Completed
+102,115,20,06-Sep-2026,"₨7,500.00",Bank Transfer,Completed
+103,116,20,05-Oct-2026,"₨1,875.00",Card,Partial
+104,117,21,07-May-2026,"₨3,900.00",Cash,Completed
+105,118,21,12-Jun-2026,"₨3,700.00",Cash,Completed
+106,119,21,06-Jul-2026,"₨3,700.00",bKash,Completed
+107,121,21,11-Sep-2026,"₨3,800.00",bKash,Completed
+108,123,22,18-May-2026,"₨1,200.00",Card,Partial
+109,124,22,06-Jun-2026,"₨1,650.00",Nagad,Completed
+110,125,22,03-Jul-2026,"₨1,600.00",bKash,Completed
+111,126,22,11-Aug-2026,"₨1,750.00",Bank Transfer,Completed
+112,127,22,06-Sep-2026,"₨1,650.00",bKash,Completed
+113,128,22,12-Oct-2026,"₨1,600.00",Cash,Completed
+114,129,23,11-May-2026,"₨3,050.00",Cash,Completed
+115,130,23,02-Jun-2026,"₨3,000.00",Cash,Completed
+116,131,23,11-Jul-2026,₨750.00,bKash,Partial
+117,133,23,15-Sep-2026,"₨3,000.00",Nagad,Completed
+118,135,24,12-May-2026,"₨2,150.00",Bank Transfer,Completed
+119,136,24,12-Jun-2026,"₨2,350.00",bKash,Completed
+120,137,24,19-Jul-2026,"₨2,350.00",Cash,Completed
+121,138,24,16-Aug-2026,"₨2,200.00",bKash,Completed
+122,139,24,19-Sep-2026,"₨2,200.00",Nagad,Completed
+123,140,24,12-Oct-2026,"₨2,250.00",Card,Completed
+124,141,25,15-May-2026,"₨2,200.00",Card,Completed
+125,142,25,11-Jun-2026,"₨2,350.00",Card,Completed
+126,145,25,12-Sep-2026,"₨2,300.00",Cash,Completed
+127,146,25,18-Oct-2026,"₨2,150.00",bKash,Completed
+128,147,26,19-May-2026,₨600.00,Bank Transfer,Partial
+129,148,26,17-Jun-2026,₨660.00,Bank Transfer,Partial
+130,149,26,02-Jul-2026,"₨1,200.00",bKash,Completed
+131,150,26,18-Aug-2026,"₨1,200.00",Card,Completed
+132,152,26,04-Oct-2026,"₨1,100.00",Nagad,Completed
+133,153,27,15-May-2026,"₨1,600.00",Card,Completed
+134,154,27,09-Jun-2026,"₨1,600.00",Bank Transfer,Completed
+135,155,27,11-Jul-2026,"₨1,600.00",Card,Completed
+136,156,27,05-Aug-2026,"₨1,750.00",Bank Transfer,Completed
+137,157,27,09-Sep-2026,"₨1,600.00",Nagad,Completed
+138,158,27,15-Oct-2026,"₨1,550.00",Card,Completed
+139,159,28,09-May-2026,"₨1,600.00",Nagad,Completed
+140,160,28,05-Jun-2026,"₨1,700.00",Card,Completed
+141,161,28,11-Jul-2026,"₨1,500.00",Card,Completed
+142,162,28,02-Aug-2026,"₨1,500.00",Card,Completed
+143,163,28,09-Sep-2026,₨400.00,Bank Transfer,Partial
+144,164,28,12-Oct-2026,"₨1,600.00",Nagad,Completed
+145,165,29,19-May-2026,"₨1,700.00",Nagad,Completed
+146,166,29,18-Jun-2026,"₨1,600.00",bKash,Completed
+147,167,29,17-Jul-2026,"₨1,200.00",Cash,Partial
+148,168,29,10-Aug-2026,"₨1,600.00",Card,Completed
+149,169,29,02-Sep-2026,"₨1,600.00",Bank Transfer,Completed
+150,170,29,19-Oct-2026,"₨1,600.00",bKash,Completed
+151,171,30,19-May-2026,"₨3,000.00",bKash,Completed
+152,172,30,17-Jun-2026,"₨2,900.00",Nagad,Completed
+153,173,30,03-Jul-2026,"₨3,000.00",Nagad,Completed
+154,174,30,14-Aug-2026,"₨3,100.00",Nagad,Completed
+155,175,30,18-Sep-2026,"₨3,000.00",Card,Completed
+156,177,31,06-May-2026,₨960.00,Nagad,Partial
+157,178,31,12-Jun-2026,"₨1,600.00",Cash,Completed
+158,179,31,16-Jul-2026,"₨1,700.00",Nagad,Completed
+159,180,31,05-Aug-2026,₨387.50,Bank Transfer,Partial
+160,181,31,16-Sep-2026,"₨1,500.00",Card,Completed
+161,183,32,03-May-2026,"₨2,200.00",Nagad,Completed
+162,184,32,13-Jun-2026,"₨2,150.00",Bank Transfer,Completed
+163,185,32,11-Jul-2026,"₨2,100.00",bKash,Completed
+164,186,32,03-Aug-2026,"₨2,300.00",Cash,Completed
+165,187,32,02-Sep-2026,"₨2,200.00",bKash,Completed
+166,190,33,02-Jun-2026,"₨1,150.00",Bank Transfer,Completed
+167,191,33,16-Jul-2026,"₨1,200.00",Cash,Completed
+168,193,33,04-Sep-2026,"₨1,150.00",Card,Completed
+169,195,34,07-May-2026,"₨3,050.00",Cash,Completed
+170,196,34,07-Jun-2026,"₨3,100.00",Bank Transfer,Completed
+171,197,34,07-Jul-2026,"₨3,000.00",Cash,Completed
+172,198,34,16-Aug-2026,"₨3,000.00",Bank Transfer,Completed
+173,199,34,04-Sep-2026,"₨3,000.00",Nagad,Completed
+174,200,34,12-Oct-2026,"₨3,050.00",Card,Completed
+175,201,35,10-May-2026,"₨1,650.00",Card,Completed
+176,202,35,08-Jun-2026,"₨1,600.00",bKash,Completed
+177,203,35,09-Jul-2026,"₨1,600.00",Card,Completed
+178,204,35,19-Aug-2026,"₨1,650.00",bKash,Completed
+179,205,35,10-Sep-2026,"₨1,500.00",Bank Transfer,Completed
+180,206,35,02-Oct-2026,"₨1,600.00",bKash,Completed
+181,207,36,18-May-2026,"₨3,000.00",Card,Completed
+182,209,36,18-Jul-2026,"₨3,000.00",Cash,Completed
+183,210,36,05-Aug-2026,"₨1,475.00",bKash,Partial
+184,211,36,06-Sep-2026,"₨3,000.00",Card,Completed
+185,212,36,11-Oct-2026,"₨3,150.00",Bank Transfer,Completed
+186,213,37,14-May-2026,"₨1,100.00",bKash,Completed
+187,214,37,19-Jun-2026,"₨1,150.00",Nagad,Completed
+188,215,37,02-Jul-2026,"₨1,350.00",Cash,Completed
+189,216,37,04-Aug-2026,"₨1,200.00",Bank Transfer,Completed
+190,217,37,13-Sep-2026,"₨1,100.00",Cash,Completed
+191,218,37,06-Oct-2026,"₨1,200.00",Card,Completed
+192,219,38,07-May-2026,"₨2,350.00",Bank Transfer,Completed
+193,220,38,11-Jun-2026,"₨2,100.00",Cash,Completed
+194,221,38,04-Jul-2026,"₨2,200.00",Card,Completed
+195,222,38,19-Aug-2026,₨880.00,Nagad,Partial
+196,223,38,14-Sep-2026,"₨2,100.00",bKash,Completed
+197,224,38,08-Oct-2026,"₨2,200.00",Card,Completed
+198,225,39,14-May-2026,"₨1,200.00",Card,Completed
+199,226,39,02-Jun-2026,"₨1,350.00",Card,Completed
+200,227,39,14-Jul-2026,"₨1,200.00",bKash,Completed
+201,228,39,17-Aug-2026,"₨1,100.00",Nagad,Completed
+202,229,39,19-Sep-2026,"₨1,200.00",Nagad,Completed
+203,230,39,19-Oct-2026,"₨1,200.00",Bank Transfer,Completed
+204,231,40,04-May-2026,"₨1,550.00",Nagad,Completed
+205,232,40,14-Jun-2026,"₨1,600.00",Nagad,Completed
+206,233,40,05-Jul-2026,"₨1,750.00",bKash,Completed
+207,235,40,16-Sep-2026,"₨1,500.00",Nagad,Completed
+208,236,40,05-Oct-2026,"₨1,650.00",Cash,Completed
+209,237,42,07-May-2026,"₨1,250.00",Nagad,Completed
+210,238,42,15-Jun-2026,"₨1,200.00",Card,Completed
+211,239,42,03-Jul-2026,"₨1,200.00",bKash,Completed
+212,240,42,17-Aug-2026,"₨1,300.00",Card,Completed
+213,241,42,06-Sep-2026,"₨1,200.00",bKash,Completed
+214,242,42,08-Oct-2026,"₨1,150.00",Bank Transfer,Completed
+215,243,43,16-May-2026,"₨1,200.00",Bank Transfer,Completed
+216,244,43,16-Jun-2026,"₨1,200.00",Nagad,Completed
+217,245,43,11-Jul-2026,"₨1,350.00",Nagad,Completed
+218,247,43,13-Sep-2026,"₨1,150.00",Card,Completed
+219,249,44,17-May-2026,"₨1,250.00",Card,Completed
+220,250,44,17-Jun-2026,"₨1,350.00",bKash,Completed
+221,251,44,10-Jul-2026,"₨1,100.00",Card,Completed
+222,252,44,12-Aug-2026,"₨1,250.00",Cash,Completed
+223,253,44,19-Sep-2026,"₨1,200.00",Nagad,Completed
+224,255,45,16-May-2026,"₨2,200.00",Nagad,Completed
+225,256,45,14-Jun-2026,"₨2,250.00",Bank Transfer,Completed
+226,257,45,17-Jul-2026,"₨2,200.00",Card,Completed
+227,258,45,15-Aug-2026,"₨1,100.00",bKash,Partial
+228,259,45,14-Sep-2026,"₨2,250.00",Bank Transfer,Completed
+229,260,45,16-Oct-2026,"₨2,150.00",Nagad,Completed
+230,261,46,10-May-2026,"₨2,250.00",Cash,Completed
+231,262,46,07-Jun-2026,"₨2,250.00",Nagad,Completed
+232,263,46,06-Jul-2026,"₨2,200.00",Card,Completed
+233,264,46,16-Aug-2026,"₨2,150.00",Bank Transfer,Completed
+234,265,46,13-Sep-2026,"₨2,150.00",Nagad,Completed
+235,267,47,05-May-2026,"₨2,250.00",Nagad,Completed
+236,268,47,02-Jun-2026,"₨2,150.00",Bank Transfer,Completed
+237,271,47,08-Sep-2026,"₨2,100.00",Card,Completed
+238,272,47,12-Oct-2026,"₨2,150.00",Card,Completed
+239,273,48,11-May-2026,"₨7,500.00",Card,Completed
+240,274,48,03-Jun-2026,"₨7,400.00",Cash,Completed
+241,275,48,19-Jul-2026,"₨7,550.00",Nagad,Completed
+242,276,48,07-Aug-2026,"₨7,500.00",Nagad,Completed
+243,277,48,09-Sep-2026,"₨7,500.00",Card,Completed
+244,278,48,10-Oct-2026,"₨7,500.00",Card,Completed
+245,279,49,11-May-2026,"₨3,800.00",Cash,Completed
+246,281,49,15-Jul-2026,"₨3,700.00",bKash,Completed
+247,282,49,14-Aug-2026,"₨3,800.00",Cash,Completed
+248,283,49,09-Sep-2026,"₨3,800.00",Card,Completed
+249,284,49,15-Oct-2026,"₨3,800.00",Cash,Completed
+250,285,50,03-May-2026,"₨1,320.00",Card,Partial
+251,286,50,11-Jun-2026,"₨2,200.00",Card,Completed
+252,287,50,18-Jul-2026,₨860.00,Nagad,Partial
+253,288,50,11-Aug-2026,"₨2,350.00",Cash,Completed
+254,289,50,06-Sep-2026,"₨2,350.00",Bank Transfer,Completed
+255,290,50,02-Oct-2026,"₨2,200.00",Card,Completed
+256,291,51,09-May-2026,"₨1,650.00",Nagad,Completed
+257,292,51,05-Jun-2026,₨400.00,Nagad,Partial
+258,293,51,19-Jul-2026,"₨1,600.00",Cash,Completed
+259,295,51,05-Sep-2026,"₨1,500.00",Cash,Completed
+260,296,51,08-Oct-2026,"₨1,550.00",Cash,Completed
+261,297,52,02-May-2026,"₨3,000.00",bKash,Completed
+262,298,52,14-Jun-2026,₨750.00,Cash,Partial
+263,299,52,06-Jul-2026,"₨1,200.00",Nagad,Partial
+264,300,52,13-Aug-2026,"₨3,100.00",Bank Transfer,Completed
+265,301,52,06-Sep-2026,"₨3,050.00",Card,Completed
+266,302,52,02-Oct-2026,"₨2,950.00",Cash,Completed
+267,303,53,12-May-2026,₨900.00,Bank Transfer,Completed
+268,304,53,03-Jun-2026,₨800.00,Cash,Completed
+269,305,53,16-Jul-2026,₨750.00,Nagad,Completed
+270,307,53,10-Sep-2026,₨712.50,Nagad,Partial
+271,308,53,06-Oct-2026,₨700.00,Cash,Completed
+272,310,54,14-Jun-2026,"₨1,600.00",Bank Transfer,Completed
+273,311,54,18-Jul-2026,"₨1,600.00",Card,Completed
+274,312,54,13-Aug-2026,"₨1,600.00",bKash,Completed
+275,313,54,13-Sep-2026,"₨1,600.00",Bank Transfer,Completed
+276,314,54,10-Oct-2026,"₨1,700.00",bKash,Completed
+277,315,55,05-May-2026,"₨3,000.00",Card,Completed
+278,316,55,05-Jun-2026,"₨2,950.00",Card,Completed
+279,317,55,06-Jul-2026,"₨3,100.00",Cash,Completed
+280,319,55,17-Sep-2026,"₨3,000.00",bKash,Completed
+281,320,55,12-Oct-2026,"₨3,150.00",Card,Completed
+282,321,56,12-May-2026,"₨2,200.00",Bank Transfer,Completed
+283,322,56,15-Jun-2026,"₨2,100.00",Bank Transfer,Completed
+284,323,56,13-Jul-2026,"₨2,200.00",Card,Completed
+285,324,56,05-Aug-2026,"₨2,150.00",Bank Transfer,Completed
+286,325,56,07-Sep-2026,"₨2,100.00",Nagad,Completed
+287,327,57,04-May-2026,"₨1,700.00",Nagad,Completed
+288,328,57,04-Jun-2026,"₨1,600.00",bKash,Completed
+289,329,57,02-Jul-2026,"₨1,700.00",Cash,Completed
+290,331,57,07-Sep-2026,"₨1,600.00",Cash,Completed
+291,332,57,10-Oct-2026,₨640.00,bKash,Partial
+292,333,58,18-May-2026,"₨1,550.00",Card,Completed
+293,334,58,09-Jun-2026,"₨1,550.00",Cash,Completed
+294,335,58,10-Jul-2026,"₨1,600.00",bKash,Completed
+295,336,58,06-Aug-2026,"₨1,550.00",Card,Completed
+296,337,58,09-Sep-2026,"₨1,600.00",bKash,Completed
+297,339,59,03-May-2026,"₨1,100.00",Nagad,Partial
+298,340,59,07-Jun-2026,"₨2,200.00",Bank Transfer,Completed
+299,341,59,02-Jul-2026,"₨2,200.00",Card,Completed
+300,342,59,07-Aug-2026,₨575.00,Cash,Partial
+301,343,59,17-Sep-2026,"₨2,150.00",bKash,Completed
+302,344,59,08-Oct-2026,"₨2,200.00",Card,Completed
+303,345,60,10-May-2026,"₨1,600.00",Cash,Completed
+304,346,60,15-Jun-2026,"₨1,600.00",Card,Completed
+305,347,60,19-Jul-2026,"₨1,600.00",bKash,Completed
+306,348,60,07-Aug-2026,"₨1,500.00",Nagad,Completed
+307,349,60,10-Sep-2026,"₨1,600.00",Card,Completed
+308,350,60,19-Oct-2026,"₨1,550.00",Nagad,Completed
+309,352,61,19-Jun-2026,"₨3,800.00",Card,Completed
+310,353,61,04-Jul-2026,"₨3,800.00",Nagad,Completed
+311,354,61,16-Aug-2026,"₨3,950.00",Nagad,Completed
+312,355,61,10-Sep-2026,"₨3,950.00",bKash,Completed
+313,356,61,11-Oct-2026,"₨2,280.00",Bank Transfer,Partial
+314,357,62,19-May-2026,"₨2,200.00",Cash,Completed
+315,358,62,06-Jun-2026,"₨2,200.00",bKash,Completed
+316,360,62,05-Aug-2026,"₨2,250.00",Card,Completed
+317,361,62,16-Sep-2026,"₨2,150.00",Card,Completed
+318,363,63,11-May-2026,"₨2,100.00",Bank Transfer,Completed
+319,364,63,02-Jun-2026,"₨2,150.00",bKash,Completed
+320,365,63,14-Jul-2026,"₨2,300.00",Cash,Completed
+321,366,63,18-Aug-2026,"₨2,150.00",Cash,Completed
+322,367,63,09-Sep-2026,"₨2,250.00",Nagad,Completed
+323,368,63,10-Oct-2026,"₨2,150.00",Bank Transfer,Completed
+324,369,64,10-May-2026,₨800.00,bKash,Completed
+325,370,64,05-Jun-2026,₨750.00,Cash,Completed
+326,371,64,09-Jul-2026,₨750.00,Cash,Completed
+327,372,64,02-Aug-2026,₨800.00,Bank Transfer,Completed
+328,374,64,12-Oct-2026,₨850.00,Bank Transfer,Completed
+329,375,65,03-May-2026,"₨3,050.00",bKash,Completed
+330,376,65,17-Jun-2026,"₨3,100.00",Card,Completed
+331,377,65,07-Jul-2026,"₨1,200.00",Card,Partial
+332,378,65,04-Aug-2026,"₨3,000.00",Bank Transfer,Completed
+333,379,65,18-Sep-2026,"₨3,000.00",Nagad,Completed
+334,380,65,15-Oct-2026,"₨3,000.00",Card,Completed
+335,381,66,16-May-2026,"₨2,250.00",Card,Completed
+336,382,66,14-Jun-2026,"₨2,150.00",Nagad,Completed
+337,383,66,12-Jul-2026,"₨2,100.00",Bank Transfer,Completed
+338,384,66,04-Aug-2026,"₨2,350.00",Bank Transfer,Completed
+339,385,66,05-Sep-2026,"₨2,150.00",bKash,Completed
+340,386,66,08-Oct-2026,"₨2,250.00",bKash,Completed
+341,387,67,02-May-2026,"₨3,800.00",Nagad,Completed
+342,388,67,12-Jun-2026,"₨3,700.00",Bank Transfer,Completed
+343,389,67,09-Jul-2026,"₨3,950.00",bKash,Completed
+344,390,67,11-Aug-2026,"₨3,750.00",Card,Completed
+345,392,67,15-Oct-2026,"₨3,900.00",bKash,Completed
+346,394,68,08-Jun-2026,₨550.00,Bank Transfer,Partial
+347,395,68,18-Jul-2026,"₨2,350.00",Cash,Completed
+348,396,68,15-Aug-2026,"₨2,300.00",Nagad,Completed
+349,398,68,19-Oct-2026,"₨1,320.00",Cash,Partial
+350,400,69,12-Jun-2026,"₨2,200.00",Card,Completed
+351,401,69,15-Jul-2026,"₨2,200.00",Card,Completed
+352,402,69,14-Aug-2026,"₨2,200.00",Nagad,Completed
+353,403,69,04-Sep-2026,"₨2,200.00",bKash,Completed
+354,404,69,04-Oct-2026,"₨2,100.00",Bank Transfer,Completed
+355,405,70,19-May-2026,"₨1,300.00",Nagad,Completed
+356,406,70,09-Jun-2026,"₨1,350.00",Bank Transfer,Completed
+357,407,70,09-Jul-2026,"₨1,150.00",Bank Transfer,Completed
+358,408,70,10-Aug-2026,"₨1,350.00",bKash,Completed
+359,409,70,17-Sep-2026,"₨1,150.00",Card,Completed
+360,410,70,10-Oct-2026,₨300.00,Nagad,Partial
+361,412,71,11-Jun-2026,"₨1,200.00",Cash,Completed
+362,413,71,19-Jul-2026,"₨1,300.00",Card,Completed
+363,414,71,06-Aug-2026,"₨1,100.00",Cash,Completed
+364,415,71,14-Sep-2026,"₨1,100.00",Card,Completed
+365,416,71,13-Oct-2026,"₨1,150.00",Bank Transfer,Completed
+366,417,72,16-May-2026,₨800.00,Cash,Completed
+367,418,72,18-Jun-2026,₨540.00,Nagad,Partial
+368,419,72,05-Jul-2026,₨850.00,Cash,Completed
+369,420,72,02-Aug-2026,₨800.00,Card,Completed
+370,421,72,17-Sep-2026,₨900.00,Card,Completed
+371,422,72,12-Oct-2026,₨750.00,Nagad,Completed
+372,423,73,16-May-2026,"₨2,150.00",Card,Completed
+373,424,73,05-Jun-2026,"₨2,200.00",Bank Transfer,Completed
+374,425,73,12-Jul-2026,"₨2,350.00",bKash,Completed
+375,426,73,06-Aug-2026,"₨2,250.00",Cash,Completed
+376,427,73,13-Sep-2026,"₨1,320.00",Cash,Partial
+377,428,73,11-Oct-2026,"₨2,200.00",Card,Completed
+378,429,74,08-May-2026,"₨1,700.00",Cash,Completed
+379,430,74,15-Jun-2026,"₨1,750.00",Cash,Completed
+380,431,74,19-Jul-2026,"₨1,700.00",bKash,Completed
+381,432,74,17-Aug-2026,"₨1,600.00",Nagad,Completed
+382,433,74,11-Sep-2026,"₨1,750.00",Nagad,Completed
+383,434,74,05-Oct-2026,"₨1,650.00",Card,Completed
+384,435,75,06-May-2026,"₨1,150.00",Cash,Completed
+385,436,75,16-Jun-2026,"₨1,100.00",Cash,Completed
+386,437,75,15-Jul-2026,"₨1,250.00",Cash,Completed
+387,438,75,13-Aug-2026,"₨1,300.00",Bank Transfer,Completed
+388,439,75,09-Sep-2026,"₨1,300.00",bKash,Completed
+389,440,75,18-Oct-2026,"₨1,200.00",bKash,Completed
+390,441,76,04-May-2026,"₨2,200.00",Bank Transfer,Completed
+391,443,76,10-Jul-2026,₨880.00,Card,Partial
+392,445,76,07-Sep-2026,"₨2,300.00",Cash,Completed
+393,446,76,05-Oct-2026,"₨2,200.00",Bank Transfer,Completed
+394,447,77,15-May-2026,"₨2,900.00",Cash,Completed
+395,448,77,17-Jun-2026,"₨1,890.00",Card,Partial
+396,449,77,11-Jul-2026,"₨2,950.00",Cash,Completed
+397,450,77,10-Aug-2026,"₨2,950.00",Bank Transfer,Completed
+398,451,77,03-Sep-2026,"₨3,100.00",Card,Completed
+399,452,77,09-Oct-2026,"₨3,000.00",Bank Transfer,Completed
+400,453,78,15-May-2026,"₨1,100.00",Cash,Completed
+401,454,78,02-Jun-2026,"₨1,200.00",Bank Transfer,Completed
+402,455,78,09-Jul-2026,"₨1,200.00",Nagad,Completed
+403,458,78,11-Oct-2026,"₨1,100.00",Nagad,Completed
+404,459,79,10-May-2026,₨212.50,bKash,Partial
+405,460,80,04-May-2026,₨700.00,Bank Transfer,Completed
+406,463,80,11-Aug-2026,₨175.00,Bank Transfer,Partial
+407,464,80,14-Sep-2026,₨950.00,Bank Transfer,Completed
+408,466,81,08-May-2026,"₨3,000.00",Nagad,Completed
+409,467,81,03-Jun-2026,"₨3,050.00",Cash,Completed
+410,468,81,10-Jul-2026,"₨3,000.00",Bank Transfer,Completed
+411,469,81,18-Aug-2026,"₨3,000.00",Bank Transfer,Completed
+412,470,81,18-Sep-2026,"₨3,100.00",bKash,Completed
+413,472,82,19-May-2026,"₨1,200.00",bKash,Completed
+414,473,82,15-Jun-2026,"₨1,200.00",bKash,Completed
+415,474,82,17-Jul-2026,"₨1,250.00",Bank Transfer,Completed
+416,475,82,14-Aug-2026,"₨1,200.00",Bank Transfer,Completed
+417,476,82,14-Sep-2026,"₨1,300.00",bKash,Completed
+418,477,82,16-Oct-2026,"₨1,250.00",Nagad,Completed
+419,478,83,14-May-2026,"₨1,150.00",Bank Transfer,Completed
+420,479,83,06-Jun-2026,"₨1,200.00",bKash,Completed
+421,482,83,03-Sep-2026,"₨1,100.00",Cash,Completed
+422,483,83,18-Oct-2026,"₨1,100.00",Nagad,Completed
+423,484,84,16-May-2026,"₨3,150.00",bKash,Completed
+424,485,84,15-Jun-2026,"₨3,000.00",Cash,Completed
+425,486,84,03-Jul-2026,"₨3,000.00",Card,Completed
+426,487,84,05-Aug-2026,"₨3,000.00",Card,Completed
+427,488,84,07-Sep-2026,"₨2,950.00",Card,Completed
+428,489,84,02-Oct-2026,"₨3,150.00",bKash,Completed
+429,490,85,05-May-2026,"₨1,600.00",Nagad,Completed
+430,491,85,13-Jun-2026,"₨1,600.00",bKash,Completed
+431,492,85,18-Jul-2026,"₨1,700.00",Nagad,Completed
+432,494,85,12-Sep-2026,"₨1,600.00",Cash,Completed
+433,495,85,02-Oct-2026,"₨1,312.50",Bank Transfer,Partial
+434,496,86,17-May-2026,"₨1,650.00",Cash,Completed
+435,497,86,04-Jun-2026,"₨1,700.00",Cash,Completed
+436,498,86,03-Jul-2026,"₨1,700.00",bKash,Completed
+437,499,86,11-Aug-2026,"₨1,750.00",Cash,Completed
+438,500,86,10-Sep-2026,"₨1,600.00",bKash,Completed
+439,501,86,14-Oct-2026,"₨1,500.00",bKash,Completed
+440,502,87,03-May-2026,"₨1,600.00",Nagad,Completed
+441,503,87,17-Jun-2026,"₨1,600.00",Card,Completed
+442,504,87,16-Jul-2026,₨800.00,Bank Transfer,Partial
+443,505,87,12-Aug-2026,"₨1,600.00",Card,Completed
+444,506,87,11-Sep-2026,₨900.00,Card,Partial
+445,507,87,18-Oct-2026,"₨1,600.00",bKash,Completed
+446,508,89,05-May-2026,"₨3,050.00",Cash,Completed
+447,509,89,18-Jun-2026,"₨3,000.00",Card,Completed
+448,510,89,03-Jul-2026,"₨3,000.00",bKash,Completed
+449,511,89,18-Aug-2026,"₨3,100.00",Nagad,Completed
+450,512,89,04-Sep-2026,"₨2,950.00",Cash,Completed
+451,513,89,05-Oct-2026,"₨2,950.00",Nagad,Completed
+452,514,90,06-May-2026,"₨3,800.00",Nagad,Completed
+453,516,90,19-Jul-2026,"₨2,220.00",Bank Transfer,Partial
+454,517,90,02-Aug-2026,"₨2,250.00",Cash,Partial
+455,518,90,08-Sep-2026,"₨3,950.00",bKash,Completed
+456,519,90,06-Oct-2026,"₨3,800.00",Cash,Completed
+457,520,91,14-May-2026,"₨1,500.00",Nagad,Partial
+458,521,91,14-Jun-2026,"₨2,900.00",Nagad,Completed
+459,522,91,14-Jul-2026,"₨3,000.00",Card,Completed
+460,523,91,08-Aug-2026,"₨3,150.00",Card,Completed
+461,524,91,12-Sep-2026,"₨3,150.00",Nagad,Completed
+462,525,91,06-Oct-2026,"₨3,100.00",Nagad,Completed
+463,526,92,08-May-2026,₨325.00,bKash,Partial
+464,528,92,05-Jul-2026,₨675.00,bKash,Partial
+465,529,92,02-Aug-2026,₨660.00,Card,Partial
+466,530,92,07-Sep-2026,"₨1,200.00",Card,Completed
+467,531,92,15-Oct-2026,"₨1,200.00",Card,Completed
+468,532,93,03-May-2026,"₨3,750.00",Bank Transfer,Completed
+469,533,93,17-Jun-2026,"₨3,700.00",Nagad,Completed
+470,534,93,13-Jul-2026,"₨2,850.00",Card,Partial
+471,535,93,03-Aug-2026,"₨3,750.00",Cash,Completed
+472,536,93,02-Sep-2026,"₨3,750.00",bKash,Completed
+473,537,93,14-Oct-2026,"₨3,750.00",bKash,Completed
+474,538,94,10-May-2026,"₨3,100.00",Nagad,Completed
+475,539,94,18-Jun-2026,"₨3,000.00",Cash,Completed
+476,540,94,07-Jul-2026,"₨3,150.00",Nagad,Completed
+477,541,94,08-Aug-2026,"₨3,150.00",Nagad,Completed
+478,543,94,15-Oct-2026,"₨3,150.00",Nagad,Completed
+479,544,95,08-May-2026,₨800.00,Card,Completed
+480,545,95,17-Jun-2026,₨340.00,bKash,Partial
+481,546,95,02-Jul-2026,₨750.00,Card,Completed
+482,547,95,05-Aug-2026,₨950.00,Card,Completed
+483,548,95,16-Sep-2026,₨750.00,Bank Transfer,Completed
+484,549,95,17-Oct-2026,₨700.00,Bank Transfer,Completed
+485,550,96,06-May-2026,"₨3,000.00",Cash,Completed
+486,551,96,09-Jun-2026,"₨2,900.00",Bank Transfer,Completed
+487,552,96,18-Jul-2026,"₨3,150.00",Bank Transfer,Completed
+488,553,96,04-Aug-2026,"₨3,150.00",Card,Completed
+489,554,96,16-Sep-2026,"₨3,000.00",Card,Completed
+490,555,96,03-Oct-2026,"₨3,000.00",Bank Transfer,Completed
+491,556,97,16-May-2026,"₨2,100.00",Nagad,Completed
+492,557,97,11-Jun-2026,"₨2,200.00",Card,Completed
+493,558,97,12-Jul-2026,"₨2,200.00",Cash,Completed
+494,559,97,05-Aug-2026,"₨1,320.00",bKash,Partial
+495,560,97,15-Sep-2026,"₨2,200.00",Nagad,Completed
+496,561,97,08-Oct-2026,"₨2,200.00",Cash,Completed
+497,562,98,06-May-2026,"₨1,200.00",Bank Transfer,Completed
+498,563,98,08-Jun-2026,"₨1,250.00",Nagad,Completed
+499,564,98,16-Jul-2026,"₨1,200.00",Cash,Completed
+500,565,98,11-Aug-2026,"₨1,200.00",bKash,Completed
+501,567,98,14-Oct-2026,"₨1,350.00",Card,Completed
+502,568,99,05-May-2026,"₨1,300.00",Bank Transfer,Completed
+503,569,99,05-Jun-2026,₨660.00,Bank Transfer,Partial
+504,570,99,19-Jul-2026,"₨1,200.00",Nagad,Completed
+505,571,99,02-Aug-2026,₨460.00,Card,Partial
+506,573,99,17-Oct-2026,₨325.00,bKash,Partial
+507,575,100,14-Jun-2026,"₨1,500.00",Card,Completed
+508,576,100,08-Jul-2026,"₨1,650.00",Cash,Completed
+509,577,100,03-Aug-2026,"₨1,600.00",bKash,Completed
+510,578,100,18-Sep-2026,"₨1,650.00",Bank Transfer,Completed
+511,579,100,12-Oct-2026,"₨1,750.00",Card,Completed
+512,580,101,17-May-2026,"₨2,200.00",Nagad,Completed
+513,581,101,04-Jun-2026,"₨2,300.00",Card,Completed
+514,582,101,19-Jul-2026,"₨2,250.00",Cash,Completed
+515,583,101,17-Aug-2026,"₨2,200.00",Nagad,Completed
+516,585,101,03-Oct-2026,"₨2,200.00",Nagad,Completed
+517,586,102,04-May-2026,₨950.00,Nagad,Completed
+518,587,102,07-Jun-2026,₨600.00,Bank Transfer,Partial
+519,588,102,07-Jul-2026,₨850.00,Card,Completed
+520,589,102,10-Aug-2026,₨425.00,Bank Transfer,Partial
+521,590,102,07-Sep-2026,₨800.00,bKash,Completed
+522,592,103,02-May-2026,"₨1,750.00",Cash,Completed
+523,593,103,07-Jun-2026,"₨1,750.00",Cash,Completed
+524,594,103,06-Jul-2026,"₨1,600.00",Card,Completed
+525,596,103,05-Sep-2026,"₨1,750.00",bKash,Completed
+526,597,103,04-Oct-2026,"₨1,600.00",Bank Transfer,Completed
+527,599,104,04-Jun-2026,"₨3,900.00",bKash,Completed
+528,600,104,15-Jul-2026,"₨1,480.00",Cash,Partial
+529,601,104,05-Aug-2026,"₨3,800.00",Card,Completed
+530,602,104,18-Sep-2026,"₨3,800.00",Card,Completed
+531,604,105,06-May-2026,"₨3,150.00",Cash,Completed
+532,605,105,08-Jun-2026,"₨2,950.00",Nagad,Completed
+533,606,105,09-Jul-2026,"₨2,362.50",Cash,Partial
+534,607,105,02-Aug-2026,"₨2,950.00",Card,Completed
+535,608,105,10-Sep-2026,"₨3,150.00",Nagad,Completed
+536,609,105,09-Oct-2026,"₨3,000.00",Cash,Completed
+537,610,106,15-May-2026,"₨1,600.00",Nagad,Completed
+538,611,106,19-Jun-2026,"₨1,600.00",Cash,Completed
+539,612,106,09-Jul-2026,"₨1,050.00",Cash,Partial
+540,613,106,04-Aug-2026,"₨1,500.00",bKash,Completed
+541,614,106,05-Sep-2026,"₨1,600.00",bKash,Completed
+542,615,106,16-Oct-2026,"₨1,600.00",Bank Transfer,Completed
+543,616,107,07-May-2026,"₨1,700.00",Nagad,Completed
+544,617,107,02-Jun-2026,"₨1,600.00",Bank Transfer,Completed
+545,618,107,02-Jul-2026,"₨1,600.00",Bank Transfer,Completed
+546,619,107,03-Aug-2026,"₨1,750.00",bKash,Completed
+547,620,107,15-Sep-2026,"₨1,600.00",Nagad,Completed
+548,621,107,08-Oct-2026,"₨1,750.00",bKash,Completed
+549,622,108,10-May-2026,₨300.00,bKash,Partial
+550,623,108,11-Jun-2026,"₨1,200.00",Nagad,Completed
+551,624,108,06-Jul-2026,"₨1,350.00",bKash,Completed
+552,626,108,14-Sep-2026,"₨1,200.00",Bank Transfer,Completed
+553,627,108,14-Oct-2026,"₨1,200.00",Bank Transfer,Completed
+554,628,109,16-May-2026,₨900.00,Cash,Completed
+555,629,109,05-Jun-2026,₨950.00,Card,Completed
+556,630,109,05-Jul-2026,₨900.00,Cash,Completed
+557,632,109,13-Sep-2026,₨800.00,Bank Transfer,Completed
+558,633,109,02-Oct-2026,₨750.00,Nagad,Completed
+559,634,110,14-May-2026,"₨2,950.00",Card,Completed
+560,635,110,12-Jun-2026,"₨3,000.00",Nagad,Completed
+561,637,110,07-Aug-2026,"₨2,900.00",Nagad,Completed
+562,638,110,18-Sep-2026,"₨3,050.00",Bank Transfer,Completed
+563,639,110,09-Oct-2026,"₨3,150.00",Bank Transfer,Completed
+564,641,111,19-Jun-2026,"₨2,300.00",Card,Completed
+565,642,111,18-Jul-2026,"₨2,200.00",Nagad,Completed
+566,643,111,10-Aug-2026,"₨2,350.00",bKash,Completed
+567,644,111,05-Sep-2026,"₨2,350.00",Nagad,Completed
+568,645,111,08-Oct-2026,"₨2,100.00",Bank Transfer,Completed
+569,646,112,12-May-2026,"₨3,800.00",bKash,Completed
+570,647,112,04-Jun-2026,"₨3,800.00",Bank Transfer,Completed
+571,649,112,08-Aug-2026,"₨1,520.00",Cash,Partial
+572,650,112,14-Sep-2026,"₨3,850.00",Cash,Completed
+573,651,112,09-Oct-2026,"₨3,800.00",Cash,Completed
+574,652,113,16-May-2026,"₨5,500.00",Bank Transfer,Completed
+575,653,113,05-Jun-2026,"₨5,500.00",Bank Transfer,Completed
+576,654,113,15-Jul-2026,"₨5,550.00",Cash,Completed
+577,655,113,03-Aug-2026,"₨5,400.00",Nagad,Completed
+578,656,113,04-Sep-2026,"₨5,400.00",Cash,Completed
+579,657,113,16-Oct-2026,"₨5,500.00",Cash,Completed
+580,658,115,10-May-2026,"₨1,600.00",bKash,Completed
+581,659,115,10-Jun-2026,"₨1,750.00",Nagad,Completed
+582,660,115,07-Jul-2026,"₨1,600.00",Nagad,Completed
+583,661,115,02-Aug-2026,"₨1,500.00",Nagad,Completed
+584,662,115,15-Sep-2026,"₨1,700.00",Bank Transfer,Completed
+585,665,116,19-Jun-2026,₨850.00,Card,Completed
+586,666,116,16-Jul-2026,₨700.00,Cash,Completed
+587,667,116,09-Aug-2026,₨800.00,Card,Completed
+588,668,116,18-Sep-2026,₨800.00,Cash,Completed
+589,669,116,09-Oct-2026,₨800.00,bKash,Completed
+590,670,117,06-May-2026,"₨1,100.00",Card,Completed
+591,672,117,15-Jul-2026,"₨1,200.00",Nagad,Completed
+592,673,117,03-Aug-2026,"₨1,200.00",Nagad,Completed
+593,675,117,13-Oct-2026,"₨1,250.00",Nagad,Completed
+594,676,119,09-May-2026,"₨2,150.00",Card,Completed
+595,677,119,15-Jun-2026,"₨1,725.00",Card,Partial
+596,680,119,06-Sep-2026,"₨2,150.00",Nagad,Completed
+597,681,119,02-Oct-2026,"₨2,150.00",Nagad,Completed
+598,682,120,16-May-2026,"₨1,200.00",Card,Completed
+599,683,120,19-Jun-2026,"₨1,250.00",Card,Completed
+600,684,120,08-Jul-2026,"₨1,300.00",Bank Transfer,Completed
+601,685,120,07-Aug-2026,"₨1,300.00",bKash,Completed
+602,686,120,10-Sep-2026,"₨1,200.00",Nagad,Completed
+603,687,120,16-Oct-2026,"₨1,200.00",Nagad,Completed
+604,688,121,13-May-2026,"₨1,600.00",Card,Completed
+605,689,121,16-Jun-2026,"₨1,050.00",Card,Partial
+606,690,121,19-Jul-2026,"₨1,750.00",Nagad,Completed
+607,691,121,11-Aug-2026,₨960.00,Nagad,Partial
+608,692,121,13-Sep-2026,₨400.00,Bank Transfer,Partial
+609,693,121,07-Oct-2026,"₨1,600.00",Bank Transfer,Completed
+610,694,122,06-May-2026,"₨1,750.00",Bank Transfer,Completed
+611,695,122,09-Jun-2026,"₨1,650.00",Card,Completed
+612,696,122,18-Jul-2026,"₨1,550.00",Card,Completed
+613,697,122,05-Aug-2026,"₨1,650.00",Bank Transfer,Completed
+614,698,122,11-Sep-2026,"₨1,600.00",Bank Transfer,Completed
+615,699,122,07-Oct-2026,"₨1,700.00",Cash,Completed
+616,700,123,06-May-2026,₨775.00,bKash,Partial
+617,701,123,13-Jun-2026,"₨1,500.00",Card,Completed
+618,702,123,06-Jul-2026,"₨1,550.00",Card,Completed
+619,703,123,14-Aug-2026,"₨1,500.00",bKash,Completed
+620,705,123,09-Oct-2026,"₨1,600.00",bKash,Completed
+621,706,124,08-May-2026,"₨3,000.00",Bank Transfer,Completed
+622,707,124,15-Jun-2026,"₨3,000.00",Nagad,Completed
+623,709,124,18-Aug-2026,"₨2,950.00",Bank Transfer,Completed
+624,710,124,11-Sep-2026,"₨1,500.00",Nagad,Partial
+625,711,124,06-Oct-2026,"₨3,000.00",Nagad,Completed
+626,712,125,02-May-2026,"₨2,200.00",Card,Completed
+627,713,125,16-Jun-2026,"₨2,200.00",Nagad,Completed
+628,714,125,19-Jul-2026,"₨2,250.00",bKash,Completed
+629,715,125,15-Aug-2026,"₨2,300.00",Bank Transfer,Completed
+630,716,125,10-Sep-2026,"₨2,200.00",Card,Completed
+631,718,126,07-May-2026,"₨1,600.00",Cash,Completed
+632,719,126,03-Jun-2026,"₨1,237.50",Card,Partial
+633,720,126,03-Jul-2026,"₨1,600.00",Bank Transfer,Completed
+634,722,126,13-Sep-2026,"₨1,550.00",Bank Transfer,Completed
+635,723,126,10-Oct-2026,"₨1,200.00",Card,Partial
+636,725,127,13-Jun-2026,"₨2,300.00",Nagad,Completed
+637,726,127,19-Jul-2026,"₨2,150.00",Bank Transfer,Completed
+638,727,127,07-Aug-2026,"₨2,200.00",Card,Completed
+639,728,127,19-Sep-2026,"₨2,350.00",Card,Completed
+640,729,127,06-Oct-2026,"₨2,200.00",Card,Completed
+641,730,128,08-May-2026,"₨2,900.00",Bank Transfer,Completed
+642,731,128,09-Jun-2026,"₨3,000.00",Card,Completed
+643,732,128,15-Jul-2026,"₨3,000.00",bKash,Completed
+644,733,128,05-Aug-2026,"₨3,000.00",Cash,Completed
+645,734,128,12-Sep-2026,"₨2,950.00",bKash,Completed
+646,735,128,14-Oct-2026,"₨3,000.00",bKash,Completed
+647,736,129,16-May-2026,"₨3,800.00",Cash,Completed
+648,737,129,09-Jun-2026,"₨3,900.00",bKash,Completed
+649,738,129,07-Jul-2026,"₨3,800.00",Nagad,Completed
+650,739,129,19-Aug-2026,"₨3,800.00",Cash,Completed
+651,740,129,09-Sep-2026,"₨3,750.00",Cash,Completed
+652,741,129,05-Oct-2026,"₨3,850.00",Card,Completed
+653,742,130,16-May-2026,₨300.00,Card,Partial
+654,743,130,12-Jun-2026,₨750.00,Nagad,Completed
+655,744,131,11-May-2026,"₨3,000.00",Nagad,Completed
+656,745,131,13-Jun-2026,"₨3,100.00",Cash,Completed
+657,746,131,10-Jul-2026,"₨1,260.00",Card,Partial
+658,747,131,14-Aug-2026,"₨3,000.00",Cash,Completed
+659,748,131,07-Sep-2026,"₨3,000.00",Bank Transfer,Completed
+660,749,131,09-Oct-2026,"₨3,150.00",Nagad,Completed
+661,750,132,05-May-2026,"₨1,100.00",Cash,Completed
+662,751,132,13-Jun-2026,"₨1,200.00",Cash,Completed
+663,752,132,04-Jul-2026,"₨1,100.00",Nagad,Completed
+664,753,132,04-Aug-2026,"₨1,200.00",bKash,Completed
+665,754,132,08-Sep-2026,"₨1,200.00",Cash,Completed
+666,755,132,04-Oct-2026,"₨1,250.00",Nagad,Completed
+667,756,133,18-May-2026,"₨2,300.00",Cash,Completed
+668,757,133,10-Jun-2026,"₨2,200.00",Nagad,Completed
+669,758,133,09-Jul-2026,"₨2,300.00",bKash,Completed
+670,759,133,03-Aug-2026,"₨2,200.00",bKash,Completed
+671,760,133,05-Sep-2026,"₨2,200.00",Card,Completed
+672,761,133,18-Oct-2026,"₨2,200.00",Cash,Completed
+673,762,134,12-May-2026,"₨7,550.00",bKash,Completed
+674,764,134,09-Jul-2026,"₨7,400.00",Nagad,Completed
+675,765,134,10-Aug-2026,"₨7,450.00",Cash,Completed
+676,766,134,17-Sep-2026,"₨7,500.00",bKash,Completed
+677,768,135,14-May-2026,"₨3,000.00",Cash,Completed
+678,769,135,09-Jun-2026,"₨3,000.00",Card,Completed
+679,770,135,18-Jul-2026,"₨2,900.00",Nagad,Completed
+680,771,135,10-Aug-2026,"₨3,150.00",bKash,Completed
+681,772,135,16-Sep-2026,"₨3,100.00",Nagad,Completed
+682,773,135,04-Oct-2026,"₨3,000.00",Card,Completed
+683,774,136,10-May-2026,"₨7,500.00",Bank Transfer,Completed
+684,775,136,07-Jun-2026,"₨3,700.00",Card,Partial
+685,776,136,18-Jul-2026,"₨7,500.00",Card,Completed
+686,777,136,04-Aug-2026,"₨7,500.00",bKash,Completed
+687,778,136,09-Sep-2026,"₨7,650.00",bKash,Completed
+688,782,137,14-Jul-2026,₨800.00,Nagad,Completed
+689,784,137,17-Sep-2026,₨450.00,Card,Partial
+690,785,137,09-Oct-2026,₨800.00,bKash,Completed
+691,786,138,03-May-2026,"₨2,250.00",Bank Transfer,Completed
+692,787,138,18-Jun-2026,"₨1,575.00",bKash,Partial
+693,788,138,16-Jul-2026,₨880.00,Card,Partial
+694,789,138,05-Aug-2026,"₨2,200.00",Bank Transfer,Completed
+695,790,138,15-Sep-2026,"₨2,100.00",Card,Completed
+696,791,138,04-Oct-2026,"₨2,200.00",Cash,Completed
+697,792,139,08-May-2026,"₨3,000.00",Card,Completed
+698,793,139,07-Jun-2026,"₨3,150.00",Card,Completed
+699,794,139,09-Jul-2026,"₨3,100.00",Cash,Completed
+700,795,139,19-Aug-2026,"₨3,000.00",Bank Transfer,Completed
+701,796,139,19-Sep-2026,"₨2,900.00",Nagad,Completed
+702,797,139,13-Oct-2026,"₨2,950.00",bKash,Completed
+703,798,140,07-May-2026,"₨5,500.00",bKash,Completed
+704,799,140,17-Jun-2026,"₨5,400.00",bKash,Completed
+705,800,140,17-Jul-2026,"₨5,500.00",Nagad,Completed
+706,801,140,04-Aug-2026,"₨5,500.00",bKash,Completed
+707,802,140,06-Sep-2026,"₨5,500.00",Nagad,Completed
+708,803,140,03-Oct-2026,"₨5,550.00",Bank Transfer,Completed
+709,804,141,19-May-2026,₨625.00,bKash,Partial
+710,805,141,18-Jun-2026,"₨1,250.00",bKash,Completed
+711,806,141,06-Jul-2026,"₨1,150.00",bKash,Completed
+712,807,141,06-Aug-2026,"₨1,150.00",Bank Transfer,Completed
+713,808,142,08-May-2026,"₨1,150.00",Nagad,Completed
+714,809,142,03-Jun-2026,"₨1,200.00",Nagad,Completed
+715,810,142,08-Jul-2026,₨337.50,Cash,Partial
+716,811,142,04-Aug-2026,"₨1,100.00",bKash,Completed
+717,812,142,03-Sep-2026,"₨1,200.00",Nagad,Completed
+718,813,142,14-Oct-2026,"₨1,300.00",Nagad,Completed
+719,814,143,03-May-2026,₨525.00,Card,Partial
+720,815,143,13-Jun-2026,"₨2,200.00",Card,Completed
+721,816,143,09-Jul-2026,"₨2,200.00",Bank Transfer,Completed
+722,817,143,02-Aug-2026,"₨2,200.00",bKash,Completed
+723,818,143,09-Sep-2026,"₨2,350.00",bKash,Completed
+724,820,144,14-May-2026,"₨1,150.00",bKash,Completed
+725,821,144,11-Jun-2026,"₨1,200.00",Nagad,Completed
+726,822,144,09-Jul-2026,"₨1,200.00",Bank Transfer,Completed
+727,823,144,08-Aug-2026,"₨1,200.00",bKash,Completed
+728,824,144,16-Sep-2026,"₨1,200.00",Card,Completed
+729,826,145,11-May-2026,₨600.00,Bank Transfer,Partial
+730,827,145,10-Jun-2026,"₨1,200.00",bKash,Completed
+731,828,145,02-Jul-2026,"₨1,250.00",Card,Completed
+732,829,145,08-Aug-2026,"₨1,300.00",Nagad,Completed
+733,830,145,15-Sep-2026,₨780.00,Card,Partial
+734,831,145,10-Oct-2026,"₨1,150.00",Card,Completed
+735,832,146,15-May-2026,"₨1,200.00",Nagad,Completed
+736,833,146,16-Jun-2026,"₨1,250.00",Cash,Completed
+737,834,146,19-Jul-2026,"₨1,250.00",Cash,Completed
+738,835,146,15-Aug-2026,"₨1,200.00",Card,Completed
+739,836,146,14-Sep-2026,"₨1,300.00",Bank Transfer,Completed
+740,837,146,03-Oct-2026,"₨1,250.00",Bank Transfer,Completed
+741,838,147,02-May-2026,"₨1,500.00",Card,Completed
+742,839,147,11-Jun-2026,₨412.50,bKash,Partial
+743,840,147,11-Jul-2026,"₨1,500.00",Bank Transfer,Completed
+744,841,147,07-Aug-2026,"₨1,600.00",bKash,Completed
+745,842,147,11-Sep-2026,"₨1,600.00",Card,Completed
+746,843,147,16-Oct-2026,"₨1,650.00",bKash,Completed
+747,844,148,16-May-2026,"₨2,350.00",Card,Completed
+748,845,149,16-May-2026,"₨1,600.00",Card,Completed
+749,846,149,07-Jun-2026,"₨1,500.00",Cash,Completed
+750,847,149,16-Jul-2026,"₨1,600.00",Bank Transfer,Completed
+751,848,149,14-Aug-2026,"₨1,600.00",Card,Completed
+752,849,149,14-Sep-2026,"₨1,600.00",Card,Completed
+753,850,149,11-Oct-2026,"₨1,550.00",Card,Completed
+754,851,150,05-May-2026,₨437.50,Card,Partial
+755,852,150,10-Jun-2026,"₨1,600.00",bKash,Completed
+756,853,150,15-Jul-2026,"₨1,600.00",Cash,Completed
+757,855,150,04-Sep-2026,"₨1,750.00",Bank Transfer,Completed
+758,856,150,18-Oct-2026,"₨1,750.00",Nagad,Completed
+759,857,151,17-May-2026,"₨1,250.00",Card,Completed
+760,858,151,19-Jun-2026,"₨1,200.00",Card,Completed
+761,859,151,09-Jul-2026,"₨1,200.00",bKash,Completed
+762,860,151,07-Aug-2026,"₨1,200.00",bKash,Completed
+763,861,151,16-Sep-2026,"₨1,200.00",bKash,Completed
+764,863,152,02-May-2026,"₨1,700.00",Cash,Completed
+765,864,152,13-Jun-2026,"₨1,700.00",Cash,Completed
+766,865,152,08-Jul-2026,"₨1,600.00",Nagad,Completed
+767,867,152,09-Sep-2026,"₨1,600.00",Card,Completed
+768,868,152,11-Oct-2026,"₨1,600.00",Card,Completed
+769,869,153,17-May-2026,"₨1,200.00",Nagad,Completed
+770,870,153,08-Jun-2026,"₨1,200.00",Nagad,Completed
+771,871,153,10-Jul-2026,"₨1,350.00",Bank Transfer,Completed
+772,873,153,11-Sep-2026,"₨1,350.00",Card,Completed
+773,874,153,08-Oct-2026,₨675.00,Bank Transfer,Partial
+774,875,154,07-May-2026,"₨1,350.00",Bank Transfer,Completed
+775,876,154,16-Jun-2026,"₨1,100.00",Bank Transfer,Completed
+776,877,154,10-Jul-2026,"₨1,150.00",Nagad,Completed
+777,879,154,05-Sep-2026,"₨1,300.00",Cash,Completed
+778,880,154,10-Oct-2026,"₨1,300.00",Nagad,Completed
+779,881,155,18-May-2026,"₨1,600.00",Nagad,Completed
+780,882,155,02-Jun-2026,"₨1,600.00",bKash,Completed
+781,883,155,05-Jul-2026,"₨1,200.00",bKash,Partial
+782,884,155,13-Aug-2026,"₨1,600.00",bKash,Completed
+783,885,155,06-Sep-2026,"₨1,550.00",Bank Transfer,Completed
+784,886,155,03-Oct-2026,"₨1,700.00",Cash,Completed
+785,887,157,04-May-2026,"₨1,200.00",Bank Transfer,Completed
+786,888,157,13-Jun-2026,"₨1,100.00",Card,Completed
+787,889,157,10-Jul-2026,"₨1,250.00",Nagad,Completed
+788,890,157,14-Aug-2026,"₨1,150.00",Card,Completed
+789,891,157,06-Sep-2026,"₨1,200.00",Card,Completed
+790,892,157,10-Oct-2026,"₨1,350.00",bKash,Completed
+791,893,158,14-May-2026,₨425.00,bKash,Partial
+792,894,158,17-Jun-2026,₨700.00,Cash,Completed
+793,895,158,14-Jul-2026,₨700.00,Card,Completed
+794,896,158,07-Aug-2026,₨800.00,bKash,Completed
+795,897,158,09-Sep-2026,₨800.00,Card,Completed
+796,898,158,11-Oct-2026,₨950.00,Cash,Completed
+797,899,159,06-May-2026,₨800.00,Bank Transfer,Completed
+798,901,159,19-Jul-2026,₨800.00,bKash,Completed
+799,902,159,13-Aug-2026,₨800.00,Nagad,Completed
+800,903,159,14-Sep-2026,₨700.00,Card,Completed
+801,904,159,04-Oct-2026,₨200.00,Bank Transfer,Partial
+802,905,160,02-May-2026,"₨1,350.00",Bank Transfer,Completed
+803,906,160,04-Jun-2026,₨480.00,bKash,Partial
+804,907,160,16-Jul-2026,"₨1,100.00",Card,Completed
+805,908,160,02-Aug-2026,"₨1,350.00",Nagad,Completed
+806,909,160,15-Sep-2026,"₨1,200.00",Nagad,Completed
+807,910,160,18-Oct-2026,"₨1,300.00",Card,Completed
+808,911,161,15-May-2026,"₨1,600.00",Card,Completed
+809,912,161,05-Jun-2026,"₨1,600.00",Card,Completed
+810,913,161,12-Jul-2026,"₨1,650.00",Nagad,Completed
+811,914,161,19-Aug-2026,"₨1,650.00",Card,Completed
+812,915,161,05-Sep-2026,"₨1,700.00",Nagad,Completed
+813,916,161,19-Oct-2026,"₨1,600.00",Bank Transfer,Completed
+814,917,162,09-May-2026,"₨1,200.00",Nagad,Completed
+815,918,162,05-Jun-2026,"₨1,200.00",Card,Completed
+816,919,162,05-Jul-2026,"₨1,150.00",Cash,Completed
+817,920,162,03-Aug-2026,"₨1,100.00",Nagad,Completed
+818,921,162,17-Sep-2026,₨720.00,Nagad,Partial
+819,922,162,13-Oct-2026,"₨1,250.00",Card,Completed
+820,923,163,14-May-2026,"₨2,350.00",bKash,Completed
+821,924,163,04-Jun-2026,"₨2,100.00",bKash,Completed
+822,927,163,08-Sep-2026,"₨2,200.00",Bank Transfer,Completed
+823,928,163,05-Oct-2026,"₨2,200.00",Bank Transfer,Completed
+824,929,164,19-May-2026,"₨3,050.00",Card,Completed
+825,930,164,07-Jun-2026,"₨3,000.00",Card,Completed
+826,931,164,19-Jul-2026,"₨3,000.00",Nagad,Completed
+827,932,164,09-Aug-2026,"₨2,950.00",bKash,Completed
+828,933,164,19-Sep-2026,"₨3,000.00",Bank Transfer,Completed
+829,934,164,12-Oct-2026,"₨3,000.00",bKash,Completed
+830,935,165,10-May-2026,"₨2,300.00",Nagad,Completed
+831,937,165,06-Jul-2026,"₨2,250.00",Nagad,Completed
+832,938,165,08-Aug-2026,"₨1,150.00",bKash,Partial
+833,940,165,03-Oct-2026,"₨2,200.00",Cash,Completed
+834,941,166,15-May-2026,₨287.50,Cash,Partial
+835,942,166,04-Jun-2026,"₨1,300.00",Bank Transfer,Completed
+836,943,166,03-Jul-2026,"₨1,100.00",Cash,Completed
+837,944,166,08-Aug-2026,"₨1,200.00",Cash,Completed
+838,945,166,07-Sep-2026,"₨1,200.00",bKash,Completed
+839,946,166,09-Oct-2026,"₨1,100.00",Bank Transfer,Completed
+840,947,167,11-May-2026,"₨1,312.50",Card,Partial
+841,948,167,19-Jun-2026,"₨1,600.00",Cash,Completed
+842,949,167,15-Jul-2026,"₨1,500.00",Card,Completed
+843,950,167,04-Aug-2026,"₨1,550.00",Nagad,Completed
+844,951,167,11-Sep-2026,"₨1,550.00",Card,Completed
+845,952,167,15-Oct-2026,"₨1,500.00",Cash,Completed
+846,953,168,10-May-2026,₨800.00,bKash,Completed
+847,955,168,06-Jul-2026,₨800.00,Card,Completed
+848,956,168,09-Aug-2026,₨700.00,Card,Completed
+849,957,168,07-Sep-2026,₨900.00,Cash,Completed
+850,958,168,02-Oct-2026,₨900.00,Bank Transfer,Completed
+851,959,169,13-May-2026,"₨1,250.00",Bank Transfer,Completed
+852,960,169,15-Jun-2026,"₨1,200.00",bKash,Completed
+853,962,169,17-Aug-2026,"₨1,200.00",Bank Transfer,Completed
+854,963,169,08-Sep-2026,"₨1,250.00",Card,Completed
+855,964,169,02-Oct-2026,"₨1,150.00",Card,Completed
+856,965,170,02-May-2026,"₨5,400.00",Cash,Completed
+857,966,170,18-Jun-2026,"₨5,600.00",Card,Completed
+858,967,170,18-Jul-2026,"₨5,400.00",Card,Completed
+859,968,170,03-Aug-2026,"₨5,450.00",Cash,Completed
+860,969,170,10-Sep-2026,"₨5,600.00",Cash,Completed
+861,970,170,11-Oct-2026,"₨1,375.00",Card,Partial
+862,971,171,16-May-2026,"₨2,200.00",bKash,Completed
+863,973,171,18-Jul-2026,"₨2,200.00",Card,Completed
+864,974,171,03-Aug-2026,"₨2,350.00",bKash,Completed
+865,975,171,14-Sep-2026,"₨2,200.00",bKash,Completed
+866,976,171,08-Oct-2026,"₨2,300.00",bKash,Completed
+867,977,172,14-May-2026,"₨2,350.00",Card,Completed
+868,978,172,05-Jun-2026,"₨2,150.00",Nagad,Completed
+869,979,172,08-Jul-2026,"₨2,100.00",Card,Completed
+870,980,172,19-Aug-2026,"₨1,050.00",bKash,Partial
+871,981,172,05-Sep-2026,"₨2,200.00",bKash,Completed
+872,982,172,15-Oct-2026,"₨2,200.00",Bank Transfer,Completed
+873,983,173,04-May-2026,₨800.00,Card,Completed
+874,984,173,06-Jun-2026,₨375.00,Cash,Partial
+875,985,173,04-Jul-2026,₨750.00,bKash,Completed
+876,986,173,10-Aug-2026,₨237.50,Cash,Partial
+877,988,173,15-Oct-2026,₨800.00,Card,Completed
+878,990,174,17-Jun-2026,"₨2,100.00",Bank Transfer,Completed
+879,991,174,16-Jul-2026,"₨2,250.00",Bank Transfer,Completed
+880,992,174,17-Aug-2026,"₨2,100.00",Cash,Completed
+881,993,174,15-Sep-2026,"₨2,200.00",bKash,Completed
+882,994,174,12-Oct-2026,"₨2,200.00",Cash,Completed
+883,995,175,18-May-2026,"₨3,100.00",Cash,Completed
+884,996,175,18-Jun-2026,"₨3,000.00",Bank Transfer,Completed
+885,998,175,07-Aug-2026,"₨1,800.00",Cash,Partial
+886,999,175,05-Sep-2026,"₨2,950.00",Nagad,Completed
+887,1000,176,07-May-2026,"₨1,300.00",Cash,Completed
+888,1001,176,09-Jun-2026,"₨1,200.00",Cash,Completed
+889,1002,176,15-Jul-2026,"₨1,200.00",bKash,Completed
+890,1003,176,08-Aug-2026,"₨1,200.00",Cash,Completed
+891,1004,176,10-Sep-2026,"₨1,250.00",Nagad,Completed
+892,1005,176,08-Oct-2026,"₨1,350.00",Nagad,Completed
+893,1006,177,14-May-2026,"₨1,100.00",bKash,Completed
+894,1007,177,19-Jun-2026,"₨1,300.00",Card,Completed
+895,1008,177,13-Jul-2026,"₨1,200.00",bKash,Completed
+896,1009,177,08-Aug-2026,₨650.00,Card,Partial
+897,1010,177,18-Sep-2026,"₨1,200.00",Bank Transfer,Completed
+898,1011,177,15-Oct-2026,"₨1,300.00",Cash,Completed
+899,1012,179,15-May-2026,₨800.00,Card,Completed
+900,1013,179,17-Jun-2026,₨800.00,Bank Transfer,Completed
+901,1014,179,04-Jul-2026,₨800.00,bKash,Completed
+902,1015,179,15-Aug-2026,₨950.00,Bank Transfer,Completed
+903,1016,179,15-Sep-2026,₨750.00,Card,Completed
+904,1017,179,18-Oct-2026,₨800.00,bKash,Completed
+905,1018,180,18-May-2026,"₨1,300.00",Card,Completed
+906,1019,180,04-Jun-2026,"₨1,200.00",Cash,Completed
+907,1020,180,08-Jul-2026,₨780.00,bKash,Partial
+908,1025,181,17-Jun-2026,"₨2,200.00",Bank Transfer,Completed
+909,1027,181,13-Aug-2026,"₨2,100.00",Card,Completed
+910,1028,181,06-Sep-2026,"₨2,150.00",Card,Completed
+911,1029,181,14-Oct-2026,"₨2,250.00",Nagad,Completed
+912,1030,182,13-May-2026,₨800.00,bKash,Completed
+913,1031,182,08-Jun-2026,₨950.00,Nagad,Completed
+914,1034,182,08-Sep-2026,₨800.00,Nagad,Completed
+915,1035,182,05-Oct-2026,₨800.00,bKash,Completed
+916,1036,183,10-May-2026,"₨1,500.00",Card,Completed
+917,1037,183,04-Jun-2026,₨640.00,bKash,Partial
+918,1038,183,17-Jul-2026,"₨1,600.00",Bank Transfer,Completed
+919,1039,183,17-Aug-2026,"₨1,500.00",Card,Completed
+920,1041,183,06-Oct-2026,"₨1,550.00",Bank Transfer,Completed
+921,1042,184,04-May-2026,"₨1,200.00",Nagad,Completed
+922,1043,184,02-Jun-2026,"₨1,100.00",bKash,Completed
+923,1044,184,03-Jul-2026,"₨1,200.00",Cash,Completed
+924,1045,184,05-Aug-2026,"₨1,200.00",Card,Completed
+925,1046,184,17-Sep-2026,"₨1,200.00",Nagad,Completed
+926,1047,184,08-Oct-2026,"₨1,200.00",Nagad,Completed
+927,1048,185,18-May-2026,₨725.00,Bank Transfer,Partial
+928,1049,185,18-Jun-2026,"₨1,500.00",Nagad,Partial
+929,1050,185,19-Jul-2026,"₨3,000.00",Card,Completed
+930,1052,185,13-Sep-2026,"₨3,000.00",Bank Transfer,Completed
+931,1053,185,19-Oct-2026,"₨1,160.00",Bank Transfer,Partial
+932,1054,186,06-May-2026,"₨1,600.00",bKash,Completed
+933,1055,186,16-Jun-2026,"₨1,600.00",Cash,Completed
+934,1056,186,17-Jul-2026,"₨1,750.00",Nagad,Completed
+935,1057,186,11-Aug-2026,₨900.00,bKash,Partial
+936,1059,186,09-Oct-2026,"₨1,650.00",bKash,Completed
+937,1060,187,17-May-2026,₨800.00,Bank Transfer,Completed
+938,1061,187,17-Jun-2026,₨675.00,Bank Transfer,Partial
+939,1062,187,10-Jul-2026,₨800.00,Card,Completed
+940,1063,187,11-Aug-2026,₨800.00,Bank Transfer,Completed
+941,1065,187,14-Oct-2026,₨800.00,Nagad,Completed
+942,1066,188,11-May-2026,"₨7,550.00",Card,Completed
+943,1068,188,05-Jul-2026,"₨7,500.00",bKash,Completed
+944,1069,188,06-Aug-2026,"₨7,600.00",bKash,Completed
+945,1070,188,08-Sep-2026,"₨7,450.00",Bank Transfer,Completed
+946,1072,189,08-May-2026,"₨1,200.00",Card,Completed
+947,1073,189,10-Jun-2026,₨975.00,Bank Transfer,Partial
+948,1075,189,11-Aug-2026,"₨1,200.00",Bank Transfer,Completed
+949,1076,189,16-Sep-2026,"₨1,200.00",Nagad,Completed
+950,1077,189,04-Oct-2026,"₨1,200.00",Nagad,Completed
+951,1078,190,15-May-2026,"₨1,550.00",Card,Completed
+952,1079,190,19-Jun-2026,"₨1,600.00",Card,Completed
+953,1080,190,14-Jul-2026,"₨1,550.00",bKash,Completed
+954,1081,190,09-Aug-2026,"₨1,500.00",Bank Transfer,Completed
+955,1084,191,10-May-2026,"₨2,300.00",Bank Transfer,Completed
+956,1085,191,02-Jun-2026,"₨2,250.00",Cash,Completed
+957,1086,191,06-Jul-2026,"₨2,200.00",Bank Transfer,Completed
+958,1087,191,04-Aug-2026,"₨2,200.00",bKash,Completed
+959,1088,191,17-Sep-2026,"₨2,200.00",Card,Completed
+960,1089,191,15-Oct-2026,"₨2,200.00",Cash,Completed
+961,1090,192,16-May-2026,"₨2,200.00",bKash,Completed
+962,1091,192,06-Jun-2026,"₨2,200.00",bKash,Completed
+963,1092,192,03-Jul-2026,"₨2,100.00",Cash,Completed
+964,1093,192,03-Aug-2026,"₨1,320.00",Card,Partial
+965,1094,192,05-Sep-2026,"₨1,320.00",Card,Partial
+966,1096,193,18-May-2026,"₨2,150.00",Card,Completed
+967,1097,193,12-Jun-2026,"₨1,320.00",bKash,Partial
+968,1098,193,14-Jul-2026,"₨2,250.00",Nagad,Completed
+969,1099,193,02-Aug-2026,"₨2,150.00",Card,Completed
+970,1100,193,13-Sep-2026,"₨2,200.00",Nagad,Completed
+971,1101,193,15-Oct-2026,"₨2,300.00",Bank Transfer,Completed
+972,1102,194,11-May-2026,₨850.00,bKash,Completed
+973,1103,194,05-Jun-2026,₨750.00,bKash,Completed
+974,1104,194,08-Jul-2026,₨900.00,Card,Completed
+975,1105,194,06-Aug-2026,₨800.00,bKash,Completed
+976,1106,194,06-Sep-2026,₨750.00,bKash,Completed
+977,1107,194,02-Oct-2026,₨850.00,Card,Completed
+978,1108,195,12-May-2026,"₨2,300.00",bKash,Completed
+979,1109,195,11-Jun-2026,"₨2,100.00",Card,Completed
+980,1110,195,08-Jul-2026,"₨2,200.00",bKash,Completed
+981,1111,195,10-Aug-2026,"₨2,100.00",Nagad,Completed
+982,1112,195,02-Sep-2026,"₨2,350.00",bKash,Completed
+983,1113,195,17-Oct-2026,"₨2,300.00",Cash,Completed
+984,1114,196,04-May-2026,"₨2,250.00",Bank Transfer,Completed
+985,1115,196,14-Jun-2026,"₨2,200.00",Cash,Completed
+986,1117,196,04-Aug-2026,"₨2,100.00",Cash,Completed
+987,1118,196,17-Sep-2026,"₨2,100.00",bKash,Completed
+988,1119,196,15-Oct-2026,"₨1,125.00",Nagad,Partial
+989,1120,197,12-May-2026,"₨3,150.00",Bank Transfer,Completed
+990,1121,197,08-Jun-2026,"₨1,890.00",Card,Partial
+991,1122,197,15-Jul-2026,"₨3,050.00",Card,Completed
+992,1123,197,13-Aug-2026,"₨1,180.00",Bank Transfer,Partial
+993,1124,197,02-Sep-2026,"₨3,000.00",Card,Completed
+994,1125,197,07-Oct-2026,"₨3,100.00",Bank Transfer,Completed
+995,1126,198,17-May-2026,"₨2,200.00",bKash,Completed
+996,1127,198,07-Jun-2026,"₨2,200.00",Nagad,Completed
+997,1129,198,17-Aug-2026,"₨2,200.00",Bank Transfer,Completed
+998,1130,198,12-Sep-2026,"₨2,150.00",Card,Completed
+999,1131,198,19-Oct-2026,"₨2,250.00",bKash,Completed
+1000,1132,199,06-May-2026,"₨1,600.00",Nagad,Completed
+1001,1133,199,07-Jun-2026,"₨1,600.00",Card,Completed
+1002,1134,199,13-Jul-2026,"₨1,750.00",Nagad,Completed
+1003,1135,199,12-Aug-2026,"₨1,600.00",Card,Completed
+1004,1136,199,09-Sep-2026,"₨1,600.00",Card,Completed
+1005,1137,199,12-Oct-2026,"₨1,550.00",Cash,Completed
+1006,1139,200,05-Jun-2026,₨800.00,bKash,Completed
+1007,1140,200,11-Jul-2026,₨800.00,Card,Completed
+1008,1141,200,03-Aug-2026,₨950.00,bKash,Completed
+1009,1142,200,16-Sep-2026,₨700.00,bKash,Completed

@@ -1,0 +1,6 @@
+{
+  "name": "ISP Billing System & Relational Database Designer",
+  "description": "Comprehensive ISP billing management dashboard, customer 360, billing and payments analytics, interactive ERD visualizer, and relational database schema designer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

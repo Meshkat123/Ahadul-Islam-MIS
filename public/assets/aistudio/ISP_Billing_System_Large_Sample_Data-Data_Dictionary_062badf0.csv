@@ -1,0 +1,30 @@
+ISP Billing System – Sample Database Workbook,,,,,
+,,,,,
+Purpose,"Synthetic sample data for MPMIS-514 term paper: database design, ERD, normalization, SQL queries and reporting.",,,,
+Note,"All names, phone numbers, emails, and transactions are fictional and created only for academic practice.",,,,
+,,,,,
+Table/Sheet,Primary Key,Foreign Keys,Purpose,Rows,Relationship
+Customers,customer_id,—,Subscriber master data,20,1 customer → many subscriptions/bills/payments
+Packages,package_id,—,Internet package catalog,5,1 package → many subscriptions
+Subscriptions,subscription_id,"customer_id, package_id",Connect customers to packages,20,many subscriptions → 1 customer / 1 package
+Bills,bill_id,"customer_id, subscription_id",Monthly billing records,40,1 customer → many bills
+Payments,payment_id,"bill_id, customer_id",Payment transactions,36,1 bill → zero/one sample payment
+Usage,usage_id,"customer_id, subscription_id",Monthly internet usage summary,20,1 subscription → many monthly usage records
+,,,,,
+,,,,,
+Suggested Relationships,,,,,
+Customers.customer_id  → Subscriptions.customer_id,,,,,
+Packages.package_id    → Subscriptions.package_id,,,,,
+Customers.customer_id  → Bills.customer_id,,,,,
+Subscriptions.subscription_id → Bills.subscription_id,,,,,
+Bills.bill_id          → Payments.bill_id,,,,,
+Customers.customer_id  → Payments.customer_id,,,,,
+Subscriptions.subscription_id → Usage.subscription_id,,,,,
+,,,,,
+Expanded Dataset Summary,,,,,
+Customers,200,PK: customer_id,,,
+Packages,8,PK: package_id,,,
+Subscriptions,200,"PK: subscription_id; FK: customer_id, package_id",,,
+Bills,1143,"PK: bill_id; FK: customer_id, subscription_id",,,
+Payments,1009,"PK: payment_id; FK: bill_id, customer_id",,,
+Usage,1143,"PK: usage_id; FK: customer_id, subscription_id",,,

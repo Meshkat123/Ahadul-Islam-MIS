@@ -1,0 +1,9 @@
+package_id,package_name,speed_mbps,monthly_fee_bdt,billing_cycle,status
+1,Starter 10,10,₨800.00,Monthly,Active
+2,Home 20,20,"₨1,200.00",Monthly,Active
+3,Family 30,30,"₨1,600.00",Monthly,Active
+4,Turbo 50,50,"₨2,200.00",Monthly,Active
+5,Pro 75,75,"₨3,000.00",Monthly,Active
+6,Ultra 100,100,"₨3,800.00",Monthly,Active
+7,Business 150,150,"₨5,500.00",Monthly,Active
+8,Enterprise 200,200,"₨7,500.00",Monthly,Active
